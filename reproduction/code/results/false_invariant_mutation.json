@@ -1,0 +1,33 @@
+{
+  "initial_parameter": [
+    0.0,
+    0.7
+  ],
+  "exact_initial_second_derivative_transverse": -0.08925,
+  "numeric_second_derivative_transverse": -0.08924986419356351,
+  "full_selection_transverse_at_t35": 0.027895808701305543,
+  "fisher_selection_transverse_at_t35": 0.7,
+  "moment_closure_transverse_at_t35": 0.7,
+  "mutation_operator": "reset",
+  "reset_rate": 0.05,
+  "independent_score_projection_checks": {
+    "reset_error": 2.7755575615628914e-16,
+    "diffusion_error": 2.7755575615628914e-15
+  },
+  "full_reset_transverse_at_t180": 0.0018196385246178615,
+  "fisher_reset_transverse_at_t180": 0.22867800882652975,
+  "moment_reset_transverse_at_t180": 8.638686288738918e-05,
+  "full_reset_axial_at_t180": 0.9501602538633711,
+  "fisher_reset_axial_at_t180": 0.9216891222270641,
+  "fisher_reset_at_t1200": [
+    0.9512475005570065,
+    0.0017603392775075474
+  ],
+  "fisher_transverse_local_decay_rate": 0.004756246098625194,
+  "weak_mutation_transverse_rate_prediction": 0.005000000000000001,
+  "moment_reset_axial_at_t180": 0.9512492155848316,
+  "closure_expected_axial_equilibrium": 0.9512492197250393,
+  "strang_step_0.1_error_vs_step_0.025": 2.658175746942316e-05,
+  "strang_step_0.05_error_vs_step_0.025": 5.319625831900357e-06,
+  "notes": "Full reset equation is simulated by Strang splitting; no finite-population biological simulation is claimed."
+}

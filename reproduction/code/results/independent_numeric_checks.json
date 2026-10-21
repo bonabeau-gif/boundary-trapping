@@ -1,0 +1,536 @@
+{
+  "example_t": [
+    {
+      "t": 0.0,
+      "projected_mean": 0.0,
+      "full_mean": -3.269876716883092e-17,
+      "full_var": 0.25500000000000006,
+      "total_variance": 0.255,
+      "represented_variance": 0.13005,
+      "squared_defect": 0.12494999999999999,
+      "represented_fraction": 0.51,
+      "omitted_fraction": 0.48999999999999994
+    },
+    {
+      "t": 1.0,
+      "projected_mean": 0.12727546578356638,
+      "full_mean": 0.2492408262820668,
+      "full_var": 0.23790051056549863,
+      "total_variance": 0.24690047790478814,
+      "represented_variance": 0.12191969197922556,
+      "squared_defect": 0.12498078592556258,
+      "represented_fraction": 0.4938009558095763,
+      "omitted_fraction": 0.5061990441904237
+    },
+    {
+      "t": 5.0,
+      "projected_mean": 0.4544015673451061,
+      "full_mean": 0.8154915685323397,
+      "full_var": 0.05677448334478774,
+      "total_variance": 0.15175960779715553,
+      "represented_variance": 0.04606195711749294,
+      "squared_defect": 0.1056976506796626,
+      "represented_fraction": 0.30351921559431105,
+      "omitted_fraction": 0.696480784405689
+    },
+    {
+      "t": 10.0,
+      "projected_mean": 0.5849139963344568,
+      "full_mean": 0.9347128609480725,
+      "full_var": 0.008830594358088084,
+      "total_variance": 0.0839378084460275,
+      "represented_variance": 0.01409111137344401,
+      "squared_defect": 0.06984669707258348,
+      "represented_fraction": 0.167875616892055,
+      "omitted_fraction": 0.832124383107945
+    },
+    {
+      "t": 30.0,
+      "projected_mean": 0.6760920571999108,
+      "full_mean": 0.9820790327228032,
+      "full_var": 0.0006443771947535204,
+      "total_variance": 0.026449765095596267,
+      "represented_variance": 0.0013991801472244452,
+      "squared_defect": 0.025050584948371823,
+      "represented_fraction": 0.052899530191192534,
+      "omitted_fraction": 0.9471004698088075
+    },
+    {
+      "t": 100.0,
+      "projected_mean": 0.7037074303336163,
+      "full_mean": 0.9948959458121881,
+      "full_var": 5.211515250413967e-05,
+      "total_variance": 0.007397926246629327,
+      "represented_variance": 0.00010945862550113417,
+      "squared_defect": 0.007288467621128193,
+      "represented_fraction": 0.014795852493258654,
+      "omitted_fraction": 0.9852041475067413
+    },
+    {
+      "t": 300.0,
+      "projected_mean": 0.7107896959979813,
+      "full_mean": 0.9983220172465449,
+      "full_var": 5.631394190075412e-06,
+      "total_variance": 0.002389004031548736,
+      "represented_variance": 1.1414680525512228e-05,
+      "squared_defect": 0.0023775893510232238,
+      "represented_fraction": 0.004778008063097472,
+      "omitted_fraction": 0.9952219919369025
+    }
+  ],
+  "generic_perturbations": [
+    {
+      "hit": true,
+      "angle": 0.775397497590949,
+      "fitness": 0.7141428421681478,
+      "tau": 0.914142841454005,
+      "initial": [
+        -0.2,
+        0.7
+      ],
+      "cos_coefficients": [
+        1
+      ],
+      "sin_coefficients": [],
+      "global_fitness_max": 0.9999999506421073,
+      "fitness_shortfall": 0.2858571084739595
+    },
+    {
+      "hit": true,
+      "angle": 0.775397497590949,
+      "fitness": 0.7141428421681478,
+      "tau": 0.7141428414540052,
+      "initial": [
+        0,
+        0.7
+      ],
+      "cos_coefficients": [
+        1
+      ],
+      "sin_coefficients": [],
+      "global_fitness_max": 0.9999999506421073,
+      "fitness_shortfall": 0.2858571084739595
+    },
+    {
+      "hit": true,
+      "angle": 0.775397497590949,
+      "fitness": 0.7141428421681478,
+      "tau": 0.5141428414540052,
+      "initial": [
+        0.2,
+        0.7
+      ],
+      "cos_coefficients": [
+        1
+      ],
+      "sin_coefficients": [],
+      "global_fitness_max": 0.9999999506421073,
+      "fitness_shortfall": 0.2858571084739595
+    },
+    {
+      "hit": true,
+      "angle": -0.4115168465039237,
+      "fitness": 0.9165151388165937,
+      "tau": 1.216515137900079,
+      "initial": [
+        -0.3,
+        -0.4
+      ],
+      "cos_coefficients": [
+        1
+      ],
+      "sin_coefficients": [],
+      "global_fitness_max": 0.9999999506421073,
+      "fitness_shortfall": 0.0834848118255136
+    },
+    {
+      "hit": true,
+      "angle": 0.4966050179093714,
+      "fitness": 0.9884058154031022,
+      "tau": 0.9618284841986546,
+      "initial": [
+        -0.2,
+        0.7
+      ],
+      "cos_coefficients": [
+        1,
+        0.2
+      ],
+      "sin_coefficients": [],
+      "global_fitness_max": 1.1999999111557942,
+      "fitness_shortfall": 0.21159409575269195
+    },
+    {
+      "hit": true,
+      "angle": 0.5491022866564651,
+      "fitness": 0.9440324991657588,
+      "tau": 0.7339069187420072,
+      "initial": [
+        0,
+        0.7
+      ],
+      "cos_coefficients": [
+        1,
+        0.2
+      ],
+      "sin_coefficients": [],
+      "global_fitness_max": 1.1999999111557942,
+      "fitness_shortfall": 0.25596741199003537
+    },
+    {
+      "hit": true,
+      "angle": 0.6051190542032188,
+      "fitness": 0.8929937009234857,
+      "tau": 0.5186149686220698,
+      "initial": [
+        0.2,
+        0.7
+      ],
+      "cos_coefficients": [
+        1,
+        0.2
+      ],
+      "sin_coefficients": [],
+      "global_fitness_max": 1.1999999111557942,
+      "fitness_shortfall": 0.30700621023230845
+    },
+    {
+      "hit": true,
+      "angle": -0.25660999376649823,
+      "fitness": 1.1414895404524872,
+      "tau": 1.137265304197808,
+      "initial": [
+        -0.3,
+        -0.4
+      ],
+      "cos_coefficients": [
+        1,
+        0.2
+      ],
+      "sin_coefficients": [],
+      "global_fitness_max": 1.1999999111557942,
+      "fitness_shortfall": 0.058510370703307
+    },
+    {
+      "hit": true,
+      "angle": 0.5918012082057674,
+      "fitness": 0.9217101316565082,
+      "tau": 0.8844177774215503,
+      "initial": [
+        -0.2,
+        0.7
+      ],
+      "cos_coefficients": [
+        1,
+        0.2,
+        -0.08
+      ],
+      "sin_coefficients": [],
+      "global_fitness_max": 1.1199999466934747,
+      "fitness_shortfall": 0.19828981503696652
+    },
+    {
+      "hit": true,
+      "angle": 0.6538955710239238,
+      "fitness": 0.8761978740862619,
+      "tau": 0.6587031117819123,
+      "initial": [
+        0,
+        0.7
+      ],
+      "cos_coefficients": [
+        1,
+        0.2,
+        -0.08
+      ],
+      "sin_coefficients": [],
+      "global_fitness_max": 1.1199999466934747,
+      "fitness_shortfall": 0.24380207260721276
+    },
+    {
+      "hit": true,
+      "angle": 0.7046940526763533,
+      "fitness": 0.8353075566585363,
+      "tau": 0.45426056048382263,
+      "initial": [
+        0.2,
+        0.7
+      ],
+      "cos_coefficients": [
+        1,
+        0.2,
+        -0.08
+      ],
+      "sin_coefficients": [],
+      "global_fitness_max": 1.1199999466934747,
+      "fitness_shortfall": 0.2846923900349384
+    },
+    {
+      "hit": true,
+      "angle": -0.302374379608446,
+      "fitness": 1.0698799533352799,
+      "tau": 1.1492064963466468,
+      "initial": [
+        -0.3,
+        -0.4
+      ],
+      "cos_coefficients": [
+        1,
+        0.2,
+        -0.08
+      ],
+      "sin_coefficients": [],
+      "global_fitness_max": 1.1199999466934747,
+      "fitness_shortfall": 0.050119993358194836
+    },
+    {
+      "hit": true,
+      "angle": 0.5641606899049008,
+      "fitness": 0.9007859853834812,
+      "tau": 0.9982085495212286,
+      "initial": [
+        -0.2,
+        0.7
+      ],
+      "cos_coefficients": [
+        1,
+        0.1,
+        0.05,
+        -0.03
+      ],
+      "sin_coefficients": [],
+      "global_fitness_max": 1.119999932379686,
+      "fitness_shortfall": 0.2192139469962049
+    },
+    {
+      "hit": true,
+      "angle": 0.5964103555012921,
+      "fitness": 0.8752546217485371,
+      "tau": 0.7611468531945668,
+      "initial": [
+        0,
+        0.7
+      ],
+      "cos_coefficients": [
+        1,
+        0.1,
+        0.05,
+        -0.03
+      ],
+      "sin_coefficients": [],
+      "global_fitness_max": 1.119999932379686,
+      "fitness_shortfall": 0.24474531063114902
+    },
+    {
+      "hit": true,
+      "angle": 0.6390223408610357,
+      "fitness": 0.8395714273592761,
+      "tau": 0.5343477211405508,
+      "initial": [
+        0.2,
+        0.7
+      ],
+      "cos_coefficients": [
+        1,
+        0.1,
+        0.05,
+        -0.03
+      ],
+      "sin_coefficients": [],
+      "global_fitness_max": 1.119999932379686,
+      "fitness_shortfall": 0.28042850502040995
+    },
+    {
+      "hit": true,
+      "angle": -0.31199282705207093,
+      "fitness": 1.053013505052524,
+      "tau": 1.1753350933291256,
+      "initial": [
+        -0.3,
+        -0.4
+      ],
+      "cos_coefficients": [
+        1,
+        0.1,
+        0.05,
+        -0.03
+      ],
+      "sin_coefficients": [],
+      "global_fitness_max": 1.119999932379686,
+      "fitness_shortfall": 0.06698642732716209
+    },
+    {
+      "hit": true,
+      "angle": 0.5469525843638072,
+      "fitness": 0.9372536090514841,
+      "tau": 1.0371431036227,
+      "initial": [
+        -0.2,
+        0.7
+      ],
+      "cos_coefficients": [
+        1,
+        0.2
+      ],
+      "sin_coefficients": [
+        0.12,
+        -0.08
+      ],
+      "global_fitness_max": 1.2004435192681475,
+      "fitness_shortfall": 0.2631899102166634
+    },
+    {
+      "hit": true,
+      "angle": 0.5776481501635329,
+      "fitness": 0.9108121524591326,
+      "tau": 0.7921065838890397,
+      "initial": [
+        0,
+        0.7
+      ],
+      "cos_coefficients": [
+        1,
+        0.2
+      ],
+      "sin_coefficients": [
+        0.12,
+        -0.08
+      ],
+      "global_fitness_max": 1.2004435192681475,
+      "fitness_shortfall": 0.2896313668090149
+    },
+    {
+      "hit": true,
+      "angle": 0.6170951138975802,
+      "fitness": 0.8755497077830223,
+      "tau": 0.5619143725302004,
+      "initial": [
+        0.2,
+        0.7
+      ],
+      "cos_coefficients": [
+        1,
+        0.2
+      ],
+      "sin_coefficients": [
+        0.12,
+        -0.08
+      ],
+      "global_fitness_max": 1.2004435192681475,
+      "fitness_shortfall": 0.3248938114851252
+    },
+    {
+      "hit": true,
+      "angle": -0.200810407519643,
+      "fitness": 1.1713282084904197,
+      "tau": 1.101259881268714,
+      "initial": [
+        -0.3,
+        -0.4
+      ],
+      "cos_coefficients": [
+        1,
+        0.2
+      ],
+      "sin_coefficients": [
+        0.12,
+        -0.08
+      ],
+      "global_fitness_max": 1.2004435192681475,
+      "fitness_shortfall": 0.029115310777727776
+    },
+    {
+      "hit": true,
+      "angle": 1.2335171846571213,
+      "fitness": 0.5315422906565727,
+      "tau": 0.6707114751805788,
+      "initial": [
+        -0.2,
+        0.7
+      ],
+      "cos_coefficients": [
+        0.85,
+        -0.1,
+        0.07
+      ],
+      "sin_coefficients": [
+        0.2,
+        0.06,
+        -0.01
+      ],
+      "global_fitness_max": 0.8586513193518313,
+      "fitness_shortfall": 0.3271090286952586
+    },
+    {
+      "hit": true,
+      "angle": 1.1000686585896495,
+      "fitness": 0.6035767230481135,
+      "tau": 0.5905455697001574,
+      "initial": [
+        0,
+        0.7
+      ],
+      "cos_coefficients": [
+        0.85,
+        -0.1,
+        0.07
+      ],
+      "sin_coefficients": [
+        0.2,
+        0.06,
+        -0.01
+      ],
+      "global_fitness_max": 0.8586513193518313,
+      "fitness_shortfall": 0.25507459630371776
+    },
+    {
+      "hit": true,
+      "angle": 0.9865634819707363,
+      "fitness": 0.6593641266303651,
+      "tau": 0.46471933731011744,
+      "initial": [
+        0.2,
+        0.7
+      ],
+      "cos_coefficients": [
+        0.85,
+        -0.1,
+        0.07
+      ],
+      "sin_coefficients": [
+        0.2,
+        0.06,
+        -0.01
+      ],
+      "global_fitness_max": 0.8586513193518313,
+      "fitness_shortfall": 0.1992871927214661
+    },
+    {
+      "hit": true,
+      "angle": -0.0609691769786536,
+      "fitness": 0.8003299472421169,
+      "tau": 1.6466598706008995,
+      "initial": [
+        -0.3,
+        -0.4
+      ],
+      "cos_coefficients": [
+        0.85,
+        -0.1,
+        0.07
+      ],
+      "sin_coefficients": [
+        0.2,
+        0.06,
+        -0.01
+      ],
+      "global_fitness_max": 0.8586513193518313,
+      "fitness_shortfall": 0.05832137210971433
+    }
+  ],
+  "wrapped_moment_max_numeric_err": 1.3877787807814457e-14,
+  "closed_form_limit_u": 0.714142842854285,
+  "full_limit_mean_fitness": 1.0,
+  "projected_long_run_fitness_loss": 0.285857157145715,
+  "notes": "Exact one-dimensional tilt reproduces full replicator from exactly the same initial wrapped-Cauchy distribution. Cauchy Fisher projection generally does not."
+}

@@ -1,0 +1,52 @@
+{
+ "d4": {
+  "predicted": {
+   "dlog_tang_dtau": -0.7,
+   "dlog_s_dtau": -3.0,
+   "dlog_tang_dlog_t": -0.11666666666666665
+  },
+  "measured": [
+   {
+    "tau": 10,
+    "dlog_tang_dtau": -0.7001982631558713,
+    "dlog_s_dtau": -2.9999997841613677,
+    "dlog_tang_dlog_t": -0.1166997214833762
+   },
+   {
+    "tau": 20,
+    "dlog_tang_dtau": -0.7000004880216575,
+    "dlog_s_dtau": -2.9999999999998224,
+    "dlog_tang_dlog_t": -0.11666674800361815
+   },
+   {
+    "tau": 40,
+    "dlog_tang_dtau": -0.7000000000027261,
+    "dlog_s_dtau": -2.9999999999996447,
+    "dlog_tang_dlog_t": -0.11666666666713484
+   }
+  ]
+ },
+ "d3": {
+  "predicted": {
+   "dlog_tang_dtau": -0.7,
+   "dlog_x_dtau": 2.0
+  },
+  "measured": [
+   {
+    "tau": 6,
+    "dlog_tang_dtau": -0.7002138047409384,
+    "dlog_x_dtau": 1.9999359175305884
+   },
+   {
+    "tau": 9,
+    "dlog_tang_dtau": -0.7000073850190522,
+    "dlog_x_dtau": 1.9999990672219214
+   },
+   {
+    "tau": 12,
+    "dlog_tang_dtau": -0.7000002247081462,
+    "dlog_x_dtau": 1.9999999860577165
+   }
+  ]
+ }
+}

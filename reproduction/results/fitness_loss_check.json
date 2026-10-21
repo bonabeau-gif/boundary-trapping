@@ -1,0 +1,8 @@
+{
+  "n_uniform_disk_samples": 160000,
+  "theoretical_mean_loss": 0.15117363684322482,
+  "mc_mean_loss": 0.15195325077449048,
+  "cdf_sup_error": 0.002914605892431199,
+  "conjugate_F_rate_max": 9.790551362639296e-17,
+  "conjugate_M_rate_max": 6.142300773893835e-17
+}
