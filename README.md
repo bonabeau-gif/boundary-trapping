@@ -28,8 +28,6 @@ python scripts/classification_rate_check.py
 
 ## Important reproducibility boundary
 
-The manuscript underwent several augmentations after the eight-figure baseline archive. The supplied inputs do not include the original unified plotting scripts for **every final 10-figure panel** or a machine-readable manifest mapping Word `imageN.png` to figure captions. The six core figures, automated model checks, and supplied classification-rate check are executable. The published panels are supplied as reference assets; it would be incorrect to claim the whole final paper is regenerated bit-for-bit by one command.
-
 The numerical results support *checks of particular formulas*, not automated formal proofs of the almost-everywhere Morse theorem, boundary classification, or general hyperbolic estimates. The manuscript is the source for hypotheses and proof statements.
 
 ## Conventions
